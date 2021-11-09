@@ -1,0 +1,23 @@
+Dashboard : Tableau de bord
+User : Utilisateur
+UserList : Liste des utilisateurs
+Users : Utilisateurs
+Lastname: Nom
+Firstname: Prénom
+Username: Nom d'utilisateur
+Password: Mot de passe
+PasswordRepeat: Confirmation du mot de passe
+Email: Email
+EmailRepeat: Confirmation de l'email
+Roles: Rôle
+Cars: Voitures
+Plate: Plaque
+Number: Identifiant
+Status: Statut
+Seat: Place assise
+Motorization: Motorisation
+StatusList: Liste des statuts
+SeatList: Liste du nombre de places assises
+MotorizationList: Liste des types de motorisation
+StatusAdd: Ajouter un statut
+StatusUpdate: Modifier un statut
